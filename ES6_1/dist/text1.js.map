@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/text1.js"],"names":["a","b"],"mappings":";;AAAA,IAAIA,IAAE,CAAN;AACA,IAAMC,IAAE,KAAR","file":"text1.js","sourcesContent":["let a=1;\r\nconst b=\"abc\";"]}
